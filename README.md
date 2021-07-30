@@ -1,5 +1,5 @@
 ## Hola, me llamo Agustin Policano!! <img src="https://i.gifer.com/origin/51/51400a9b5b73916bc996914bcc6e4c4e.gif" align="middle" width="100px" />
-#### Soy programador, intento de diseñador UI 😂😂 y amante del mundo Crypto 
+### Soy programador Front End, intento de diseñador UI 😂😂 y amante del mundo Crypto 
 - :computer: Actualmente trabajo para [Banahia](https://www.banhaia.com/) como Front End y Diseñador UI
 - :blue_book: Sigo capacitandome en nuevas tecnologías, actualmente estoy aprendiendo Solidity!
 - :video_game: Soy fánatico de los videojuegos, actualmente estoy enganchadisimo con New World y Valorant
