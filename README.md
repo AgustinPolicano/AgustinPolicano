@@ -4,7 +4,7 @@
 - :blue_book: Sigo capacitandome en nuevas tecnologías, actualmente estoy aprendiendo Solidity!
 - :video_game: Soy fánatico de los videojuegos, actualmente estoy enganchadisimo con New World y Valorant
 
- **Como contactarme:** <img src="https://i.ibb.co/TqQdL8T/gif-github-readme.gif" width="400px" align="right">
+ **Como contactarme:**
 
 
 [<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="40px"/>](https://www.linkedin.com/in/agustin-policano/)
