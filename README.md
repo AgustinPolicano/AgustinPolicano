@@ -1,5 +1,5 @@
 ## Hola, me llamo Agustin Policano!!
-### Soy programador Front End, intento de diseñador UI 😂😂 y amante del mundo Crypto 
+### Soy programador Front End, intento de diseñador UI 😂😂
 - :computer: Actualmente trabajo para [Accusys](https://www.accusys.com.ar/) y [Seenka](https://seenka.com/) como Programador Front End (Angular).
 - :blue_book: Sigo capacitandome en nuevas tecnologías, actualmente estoy mejorando mis bases en React!
 - :video_game: Soy fánatico de los videojuegos, actualmente estoy enganchadisimo con Valorant.
