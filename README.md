@@ -1,5 +1,5 @@
 ## Hola, me llamo Agustin Policano!!
-### Soy programador Front End, intento de diseñador UI 😂😂
+### Soy programador Front End
 - :computer: Actualmente estoy desempleando buscando trabajo como developer en Angular (mid-level) o React (junior).
 - :blue_book: Sigo capacitandome en nuevas tecnologías, actualmente estoy mejorando mis bases en React!
 - :video_game: Soy fánatico de los videojuegos, actualmente estoy enganchadisimo con Valorant.
