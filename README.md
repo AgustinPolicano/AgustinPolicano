@@ -21,10 +21,13 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 
+[<img src="https://user-images.githubusercontent.com/78830239/221166108-6195cd1e-87e8-4fc7-9cb3-964d1a123225.png"/>](https://www.codewars.com/users/AgustinPolicano)
+</a>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AgustinPolicano&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinPolicano&theme=blue-green"/> 
+
 
 
