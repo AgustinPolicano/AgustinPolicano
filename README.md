@@ -1,6 +1,6 @@
 ## Hola, me llamo Agustin Policano!!
 ### Soy programador Front End
-- :computer: Actualmente estoy desempleando buscando trabajo como developer en Angular (mid-level) o React (junior).
+- :computer: Actualmente estoy trabajando para [Omint](https://www.omint.com.ar/PlanDeSalud/) como Analista Programador SSR
 - :blue_book: Sigo capacitandome en nuevas tecnologías, actualmente estoy mejorando mis bases en React!
 - :video_game: Soy fánatico de los videojuegos, actualmente estoy enganchadisimo con Valorant.
 - :muscle: Mi fuerte como programador Front-End es [Angular](https://angular.io/)
