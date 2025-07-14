@@ -12,11 +12,13 @@
 
 ## Sobre mi
 
-Me encanta shippear y buildear productos, sean paneles de admin, aplicaciones simples, diseños web, entre otras cosas.
+Me apasiona diseñar y desarrollar productos digitales: desde paneles de administración y aplicaciones simples hasta sitios web y otros proyectos.
 
-- 🔭 Intento mejorar dia a dia, como persona y como profesional.
-- 🧠 Me encanta realizar side proyects para mi como hobby.
-- 🤝 Me encanta colaborar en equipo y con otras personas.
+🛠️ Me esfuerzo por mejorar cada día, tanto a nivel personal como profesional.
+
+🧠 Disfruto creando side projects como hobby y forma de aprendizaje constante.
+
+🤝 Me motiva colaborar en equipo y conectar con otras personas.
 
 ---
 
