@@ -1,31 +1,105 @@
-## Hola, me llamo Agustin Policano!!
-### Soy programador Front End
-- :computer: Actualmente estoy trabajando para [Omint](https://www.omint.com.ar/PlanDeSalud/) como Analista Programador SSR y creo soluciones digitales en mi [Agencia Web](https://beersech.com/)
-- :blue_book: Sigo capacitandome en nuevas tecnologías, actualmente estoy mejorando mis bases en React!
-- :muscle: Mi fuerte como programador Front-End es [Angular](https://angular.io/)
-### Como contactarme: ### 
+<h1>Hola, Soy Agustin Policano👋</h1>
+
+## Web Developer
+
+<div>
+  
+![GitHub streak](https://streak-stats.demolab.com?user=AgustinPolicano&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+---
+
+## Sobre mi
+
+Me encanta shippear y buildear productos, sean paneles de admin, aplicaciones simples, diseños web, entre otras cosas.
+
+- 🔭 Intento mejorar dia a dia, como persona y como profesional.
+- 🧠 Me encanta realizar side proyects para mi como hobby.
+- 🤝 Me encanta colaborar en equipo y con otras personas.
+
+---
+
+## Tecnologías
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="40" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="40" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=angular" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cloudflare" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" height="40" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=astro" height="40" />
+&nbsp;&nbsp;
+
+</p>
 
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:policanoagus@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/agustin-policano/)
-</a>
-
-### Habilidades: ### 
-
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-
-[<img src="https://user-images.githubusercontent.com/78830239/221166108-6195cd1e-87e8-4fc7-9cb3-964d1a123225.png"/>](https://www.codewars.com/users/AgustinPolicano)
-</a>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AgustinPolicano&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## Links
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinPolicano&theme=blue-green"/> 
+<p>
+  <a href="https://agustinpolicano.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Sitio-Web-5865f2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://x.com/PolicanoAgustin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@PolicanoAgustin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/agustin-policano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AgustinPolicano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
 
+## Contacto
 
+<p>
+  <a href="mailto:agustinpolicanodev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/AGUSTINPOLICANODEV@GMAIL.COM-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
