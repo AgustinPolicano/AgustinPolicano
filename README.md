@@ -20,6 +20,17 @@ Me apasiona diseñar y desarrollar productos digitales: desde paneles de adminis
 
 🤝 Me motiva colaborar en equipo y conectar con otras personas.
 
+
+---
+
+## Mis Proyectos
+
+Aquí algunos de los desarrollos más recientes en los que he estado trabajando:
+
+| Proyecto | Descripción |
+| :--- | :--- |
+| **📂 [RankMycv](https://rankmycv.app/)** | Herramienta para analizar y optimizar currículums. |
+| **📍 [Mapsleadextractor](https://mapsleadextractor.com/)** | Extractor de leads y datos basado en mapas. |
 ---
 
 ## Tecnologías
