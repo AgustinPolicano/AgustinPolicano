@@ -30,8 +30,9 @@ Aquí algunos de los desarrollos más recientes en los que he estado trabajando:
 | Proyecto | Descripción |
 | :--- | :--- |
 | **📂 [RankMycv](https://rankmycv.app/)** | Herramienta para analizar y optimizar currículums. |
-| **📍 [Mapsleadextractor](https://mapsleadextractor.com/)** | Extractor de leads y datos basado en mapas. |
----
+| **📍 [Mapsleadextractor](https://mapsleadextractor.com/)** | Extractor de leads y datos basado en mapas. | 
+| **⚖️ [AI Courtroom](https://ai-courtroom-three.vercel.app/)** | Simulador de sala de tribunal impulsado por inteligencia artificial. (Con vercel gateway api)  |
+| **🛒 [Alchimie Ecommerce](https://www.nadirperfumes.com/)** | E-commerce con Next.js optimizado para SEO y panel de administración integrado. |
 
 ## Tecnologías
 
