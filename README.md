@@ -14,6 +14,7 @@ Hoy, a mis 23, sigo con la misma mentalidad: programar las ideas que me gustan s
 
 | Proyecto | Descripción |
 | :--- | :--- |
+| **[EstacionarBA](https://estacionarba.vercel.app/)** | Saber si podes estacionar o no en CABA mediante GPS/Buscador. |
 | **[RankMycv](https://rankmycv.app/)** | Análisis y optimización de currículums mediante procesamiento de datos. |
 | **[Mapsleadextractor](https://mapsleadextractor.com/)** | Herramienta de extracción de leads basada en datos geoespaciales. | 
 | **[AI Courtroom](https://ai-courtroom-three.vercel.app/)** | Simulación de juicios con IA utilizando Vercel Gateway API. |
